@@ -44,5 +44,5 @@ If you have any questions or would like to discuss this project further, feel fr
 
 - The web scraping code was built with the help of BeautifulSoup and requests library.
 - Special thanks to IMDb for providing valuable data.
-- I would like to extend my gratitude to Demetrio, (https://github.com/demstalferez), for his guidance.
+- I would like to extend my gratitude to Demetrio for his guidance (https://github.com/demstalferez).
 
