@@ -1,5 +1,6 @@
 
-![Cover Image](Web-scraping.jpg)
+# TITANIC PROJECT
+![Cover Image](Web-scraping.png)
 
 ## Overview
 
@@ -29,7 +30,7 @@ This repository contains a data analysis project that focuses on scraping and an
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/imjoseba/actor-information-scraper.git`
+1. Clone the repository: `git clone https://github.com/imjoseba/web-scrapping-playground.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook `data_analysis.ipynb` to explore the code and analysis.
 
