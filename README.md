@@ -1,5 +1,3 @@
-
-# TITANIC PROJECT
 ![Cover Image](Web-scraping.png)
 
 ## Overview
